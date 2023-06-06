@@ -24,9 +24,8 @@ Hi there. My name is Rune, and I am currently a student of Front End Development
                   
                   
                 <p align="left">
-                          
-                      <a href="https://discord.com/users/Rune Unhjem – Aug22 FT#3390" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
+                      
+                                                
                       <a href="https://www.facebook.com/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.github.com/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>

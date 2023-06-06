@@ -10,9 +10,11 @@ I made my first real subscripion based website back in the late '90's, and made 
 Unfortunately that was just about what the ISDN phone bill was as well every month, so it did not last to long. :) \
 I've made a music album available on Spotify, done sales, intervjues and for many years seller and department manager, computers at Elkjøp Ålesund. 
 
-Now it's all about Front End Development. \
+Now it is all about Front End Development. \
 Learning every day, hoping to soon join the real world of applicable coding.\
-Don't hesitate to contact me.
+School is scheduled to finish June 2024.\
+Available for hire.\
+Do not hesitate to contact me.
 
 *   🌍  I'm based in Kristiansand, Norway
 *   🖥️  See my portfolio at [My Protfolio](http://portfolio1-ca.netlify.app/)

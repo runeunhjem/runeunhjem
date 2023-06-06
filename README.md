@@ -8,7 +8,7 @@ Hi there. My name is Rune, and I am currently a student of Front End Development
 After 12 years at Elkjøp, I decided it was time for a career change, and I have always loved everything tech and science. \
 I made my first real subscripion based website back in the late '90's, and made an average of 30K NOK/mnth. \
 Unfortunately that was just about what the ISDN phone bill was as well every month, so it did not last to long. :) \
-I've made a music album available on Spotify, done sales, intervjues and for many years seller and department manager, computers at Elkjøp Ålesund. \
+I've made a music album available on Spotify, done sales, intervjues and for many years seller and department manager, computers at Elkjøp Ålesund. 
 
 Now it's all about Front End Development. \
 Learning every day, hoping to soon join the real world of applicable coding.\

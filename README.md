@@ -33,6 +33,7 @@ Do not hesitate to contact me.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="36" alt="Figma" /></a>
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress" width="42" height="36"  alt="WordPress" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="42" height="36" alt="VSC"></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="42" height="36" alt="Bootstrap" /></a>
 </p>
 
 

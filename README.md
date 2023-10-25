@@ -20,7 +20,7 @@ Do not hesitate to contact me.
 *   🖥️  See my portfolio at [My Protfolio](http://portfolio1-ca.netlify.app/)
 *   ✉️  You can contact me at [runeunhjem@gmail.com](mailto:runeunhjem@gmail.com)
 *   🚀  I'm currently working on [My Portfolio](http://portfolio1-ca.netlify.app)
-*   🧠  I'm learning Javascript
+*   🧠  Just finished our JavaScript 2 Course Assignment, so atm we're on Workflow with Cypress /Jest for testing
    
 ### Skills 
 

@@ -20,7 +20,7 @@ Do not hesitate to contact me.
 *   🖥️  See my portfolio at [My Protfolio](http://portfolio1-ca.netlify.app/)
 *   ✉️  You can contact me at [runeunhjem@gmail.com](mailto:runeunhjem@gmail.com)
 *   🚀  Latest project was [DreamBids](https://runeunhjem-sp2.netlify.app/)
-*   🧠  Just finished our JavaScript 2 Course Assignment, so atm we're on Workflow with Cypress /Jest for testing
+*   🧠  Just finished our Semester Project 2 Course Assignment, so atm we're on Industry Knowledge workin on the Noroff Agency site in teams
    
 ### Skills 
 

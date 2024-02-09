@@ -36,6 +36,8 @@ Do not hesitate to contact me.
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="42" height="36" alt="Bootstrap" /></a>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/330247/cypress.svg" width="42" height="36" alt="Cypress" /></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353930/jest.svg" width="42" height="36" alt="Jest" /></a>
+<a href="https://qwik.dev/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jNoAB0ynWBnjO4Op3FPQUNnJdd1wUYEPp5YRyRje3kN0DXELCqEkV6SBP4F2k6zmzI0&usqp=CAU" width="42" height="36" alt="Jest" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354259/react.svg" width="42" height="36" alt="React" /></a>
 </p>
 
 

@@ -20,7 +20,7 @@ Do not hesitate to contact me.
 *   🖥️  See my portfolio at [My Protfolio](http://portfolio1-ca.netlify.app/)
 *   ✉️  You can contact me at [runeunhjem@gmail.com](mailto:runeunhjem@gmail.com)
 *   🚀  Latest design and create project was [DreamBids](https://runeunhjem-sp2.netlify.app/) / Latest school assignment was doing a case study on the [Qwik Framework](https://github.com/runeunhjem/qwik-case-study)
-*   🧠  Just finished our Semester Project 2 Course Assignment, so atm we're on Industry Knowledge workin on the Noroff Agency site in teams
+*   🧠  Just finished our Development Platforms Course Assignment, so atm we're off to start JavaScript Frameworks with emphasis on React
    
 ### Skills 
 

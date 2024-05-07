@@ -38,6 +38,7 @@ Do not hesitate to contact me.
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353930/jest.svg" width="42" height="36" alt="Jest" /></a>
 <a href="https://qwik.dev/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jNoAB0ynWBnjO4Op3FPQUNnJdd1wUYEPp5YRyRje3kN0DXELCqEkV6SBP4F2k6zmzI0&usqp=CAU" width="42" height="36" alt="Jest" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354259/react.svg" width="42" height="36" alt="React" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="42" height="36" alt="Tailwind" /></a>
 </p>
 
 

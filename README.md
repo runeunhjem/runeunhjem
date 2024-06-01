@@ -4,23 +4,25 @@ Hi 👋 My name is Rune Unhjem
 Front End Developer & Designer
 ------------------------------
 
-Hi there. My name is Rune, and I am currently a student of Front End Development at Noroff School of Technology and Digital Media. \
+Hi there and welcome!
+Just finished up a 2 year study of Front End Development at Noroff School of Technology and Digital Media. \
+Starting Backend studies in August at the same school \
 After 12 years at Elkjøp, I decided it was time for a career change, and I have always loved everything tech and science. \
-I made my first real subscripion based website back in the late '90's, and made an average of 30K NOK/mnth. \
-Unfortunately that was just about what the ISDN phone bill was as well every month, so it did not last to long. :) \
-I've made a music album available on Spotify, done sales, intervjues and for many years seller and department manager, computers at Elkjøp Ålesund. 
 
-Now it is all about Front End Development. \
-Learning every day, hoping to soon join the real world of applicable coding.\
-School is scheduled to finish June 2024.\
-Available for hire.\
-Do not hesitate to contact me.
+Made a music album available on Spotify, done sales, intervjues and for many years seller and department manager, computers at Elkjøp Ålesund. \
+
+Last 2 years have been all about Front End Development. \
+Learned every day, hoping to soon join the real world of applicable coding. \
+Signed up for one more year of school, this time Backend Development to get the full grasp of how to deliver web solutions to customers. \
+School is scheduled to start up again 13th of August 2024. \
+No project to small. Available for hire. \
+Do not hesitate to contact me. \
 
 *   🌍  I'm based in Kristiansand, Norway
 *   🖥️  See my portfolio at [My Protfolio](http://portfolio1-ca.netlify.app/)
 *   ✉️  You can contact me at [runeunhjem@gmail.com](mailto:runeunhjem@gmail.com)
-*   🚀  Latest design and create project was [CGG](https://javascript-frameworks-ca-react.netlify.app/), an online store made using  React, and [DreamBids](https://runeunhjem-sp2.netlify.app/), an online auction house.
-*   🧠  Just finished our JavaScript Frameworks Course Assignment, so atm we're in the middle of our Project Exam 2 due May 26th 2024.
+*   🚀  Latest design and create project was  [Holidaze](https://rundev-holidaze.netlify.app/home), a travel/accommodations site made using React and Vite, [CGG](https://javascript-frameworks-ca-react.netlify.app/), an online store made using React, and [DreamBids](https://runeunhjem-sp2.netlify.app/), an online auction house.
+*   🧠  Just finished our Project Exam 2, so atm we're in the middle of our Portfolio due June 9th 2024.
    
 ### Skills 
 
@@ -39,12 +41,22 @@ Do not hesitate to contact me.
 <a href="https://qwik.dev/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jNoAB0ynWBnjO4Op3FPQUNnJdd1wUYEPp5YRyRje3kN0DXELCqEkV6SBP4F2k6zmzI0&usqp=CAU" width="42" height="36" alt="Jest" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354259/react.svg" width="42" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="42" height="36" alt="Tailwind" /></a>
+<a href="https://vite.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374167/vite.svg" width="42" height="36" alt="Vite" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Rune Unhjem – Aug22 FT#3390" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="42" height="32" /></a> <a href="https://www.facebook.com/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="42" height="32" /></a> <a href="https://www.github.com/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="32" /></a> <a href="http://www.instagram.com/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="42" height="32" /></a> <a href="https://www.linkedin.com/in/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="32" /></a> <a href="https://www.twitter.com/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="42" height="32" /></a> <a href="https://www.youtube.com/c/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="42" height="32" /></a></p>
+<p align="left"> 
+   <a href="https://discord.com/users/Rune Unhjem – Aug22 FT#3390" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="42" height="32" /></a> 
+   <a href="https://www.facebook.com/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="42" height="32" /></a> 
+   <a href="https://www.github.com/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="32" /></a> 
+   <a href="http://www.instagram.com/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="42" height="32" /></a> 
+   <a href="https://www.linkedin.com/in/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="32" /></a>
+   <a href="https://www.twitter.com/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="42" height="32" /></a> 
+   <a href="https://www.youtube.com/c/runeunhjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="42" height="32" /></a>
+</p>
+   
 ### Badges
 
 <b>My GitHub Stats</b>

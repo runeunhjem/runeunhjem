@@ -9,11 +9,13 @@ Just finished up a 2 year study of Front End Development at Noroff School of Tec
 Starting Backend studies in August at the same school \
 After 12 years at Elkjøp, I decided it was time for a career change, and I have always loved everything tech and science. 
 
-Made a music album available on Spotify, done sales, intervjues and for many years seller and department manager, computers at Elkjøp Ålesund. 
+I have my music album made back in the days available on [Spotify](https://open.spotify.com/artist/56ZSG2Q1JKydX5X9rTZxrq?si=787xAZCQT2yu8PKN5Dhopw&nd=1&dlsi=82d6490478e74b09).\
+Done sales for most of my life and for roughly 11 years seller and department manager, computers at Elkjøp Ålesund. \
+Last 5 years, intervjues for Ipsos.
 
-Last 2 years have been all about Front End Development. \
-Learned every day, hoping to soon join the real world of applicable coding. \
-Signed up for one more year of school, this time Backend Development to get the full grasp of how to deliver web solutions to customers. \
+Last 2 years have been all about Front End Development at Noroff School of Technology and Digital Media. \
+Loved to learn every day, hoping to soon join the real world of applicable coding and design. \
+Signed up for one more year of school, this time Backend Development to get the full grasp of how to deliver the best web solutions to customers. \
 School is scheduled to start up again 13th of August 2024. \
 No project to small. Available for hire. \
 Do not hesitate to contact me. 

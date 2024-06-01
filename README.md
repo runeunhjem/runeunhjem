@@ -7,16 +7,16 @@ Front End Developer & Designer
 Hi there and welcome!
 Just finished up a 2 year study of Front End Development at Noroff School of Technology and Digital Media. \
 Starting Backend studies in August at the same school \
-After 12 years at Elkjøp, I decided it was time for a career change, and I have always loved everything tech and science. \
+After 12 years at Elkjøp, I decided it was time for a career change, and I have always loved everything tech and science. 
 
-Made a music album available on Spotify, done sales, intervjues and for many years seller and department manager, computers at Elkjøp Ålesund. \
+Made a music album available on Spotify, done sales, intervjues and for many years seller and department manager, computers at Elkjøp Ålesund. 
 
 Last 2 years have been all about Front End Development. \
 Learned every day, hoping to soon join the real world of applicable coding. \
 Signed up for one more year of school, this time Backend Development to get the full grasp of how to deliver web solutions to customers. \
 School is scheduled to start up again 13th of August 2024. \
 No project to small. Available for hire. \
-Do not hesitate to contact me. \
+Do not hesitate to contact me. 
 
 *   🌍  I'm based in Kristiansand, Norway
 *   🖥️  See my portfolio at [My Protfolio](http://portfolio1-ca.netlify.app/)

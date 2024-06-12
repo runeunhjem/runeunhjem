@@ -24,7 +24,7 @@ Do not hesitate to contact me.
 *   🖥️  See my portfolio at [My Protfolio](http://portfolio1-ca.netlify.app/)
 *   ✉️  You can contact me at [runeunhjem@gmail.com](mailto:runeunhjem@gmail.com)
 *   🚀  Latest design and create project was  [Holidaze](https://rundev-holidaze.netlify.app/home), a travel/accommodations site made using React and Vite, [CGG](https://javascript-frameworks-ca-react.netlify.app/), an online store made using React, and [DreamBids](https://runeunhjem-sp2.netlify.app/), an online auction house.
-*   🧠  Just finished our Project Exam 2, so atm we're in the middle of our Portfolio due June 9th 2024.
+*   🧠  Just finished our [Portfolio 2](https://rundev-portfolio.netlify.app/) course assignment and with that the Frontend developer school education. So atm I'm self learning within various topics crucial to stay on top of things within the ever evolving trade we're in while waiting for the Backend education to start up mid August.
    
 ### Skills 
 

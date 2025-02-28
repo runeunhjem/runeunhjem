@@ -10,7 +10,7 @@ I have completed a 2-year study in Frontend Development at Noroff School of Tech
 After 12 years at Elkjøp, I decided it was time for a career change. Technology and science have always been my passion, and now I'm on my way to becoming a full-stack developer.
 
 I have a music album from back in the days available on [Spotify](https://open.spotify.com/artist/56ZSG2Q1JKydX5X9rTZxrq?si=787xAZCQT2yu8PKN5Dhopw&nd=1&dlsi=82d6490478e74b09).
-I've been in sales for most of my life, including 11 years as a seller and department manager for computers at Elkjøp Ålesund. For the last five years, I've conducted interviews for Ipsos.
+I've been in sales for most of my life, including 11 years as a seller and department manager for computers at Elkjøp Ålesund. Since 2018, I've conducted interviews for Ipsos.
 
 With my frontend education completed, I am now diving deep into backend development to fully understand how to deliver top-tier web solutions to customers. My backend studies started on August 13th, 2024.
 
@@ -18,7 +18,7 @@ No project is too small. Available for hire.
 Do not hesitate to contact me.
 
 *   🌍 I'm based in Kristiansand, Norway
-*   🖥️ See my portfolio at [My Portfolio](http://portfolio1-ca.netlify.app/)
+*   🖥️ See my portfolio at [My Portfolio](https://rundev-portfolio.netlify.app/)
 *   ✉️ You can contact me at [runeunhjem@gmail.com](mailto:runeunhjem@gmail.com)
 *   🚀 Latest projects include [Holidaze](https://rundev-holidaze.netlify.app/home), a travel/accommodations site made using React and Vite, [CGG](https://javascript-frameworks-ca-react.netlify.app/), an online store made using React, and [DreamBids](https://runeunhjem-sp2.netlify.app/), an online auction house.
 

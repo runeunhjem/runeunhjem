@@ -51,9 +51,6 @@ Do not hesitate to contact me.
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://sequelize.org/img/logo.svg" width="42" height="36" alt="Sequelize" /></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" width="42" height="36" alt="Redis" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm" width="42" height="36" alt="NPM" /></a>
-<a href="https://www.passportjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/P/passport-logo-16D89B2F37-seeklogo.com.png" width="42" height="36" alt="Passport.js" />
-</a>
 
 </p>
 

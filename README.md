@@ -20,7 +20,6 @@ Do not hesitate to contact me.
 * 🌍 I'm based in Kristiansand, Norway  
 * 🖥️ Portfolio: [rundev-portfolio.netlify.app](https://rundev-portfolio.netlify.app/)  
 * ✉️ Email: [runeunhjem@gmail.com](mailto:runeunhjem@gmail.com)  
-* 🚀 Latest projects: [Holidaze](https://rundev-holidaze.netlify.app/home), [CGG Store](https://javascript-frameworks-ca-react.netlify.app/), [DreamBids](https://runeunhjem-sp2.netlify.app/)
 
 ---
 

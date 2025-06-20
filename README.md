@@ -49,7 +49,7 @@ No project is too small. I'm available for hire — don't hesitate to reach out.
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="42" height="36" alt="MySQL" /></a>
 <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="42" height="36" alt="Redis" /></a>
 <a href="https://jwt.io/"><img src="https://jwt.io/apple-icon/256?c8286793fc3e08ca" width="40" height="40" alt="JWT" /></a>
-<a href="https://swagger.io/"><img src="https://images.seeklogo.com/logo-png/33/2/swagger-logo-png_seeklogo-338589.png" width="40" height="40" alt="Swagger" /></a>
+<a href="https://swagger.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="40" height="40" alt="Swagger" /></a>
 <a href="https://www.passportjs.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdc4oWlHDoJZvdUDU0aC9q_7001R8j5StJxtME4RGjQxaRfmO_rJ0CE9Oxqv_kdkAHphU&usqp=CAU" width="42" height="36" alt="Passport.js" /></a>
 <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" width="42" height="36" alt="NPM" /></a>
 </p>

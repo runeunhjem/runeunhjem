@@ -5,21 +5,21 @@ Full Stack Developer (Frontend & Backend)
 ------------------------------------------
 
 Hi there and welcome!  
-I have completed a 2-year study in Frontend Development at Noroff School of Technology and Digital Media and started Backend Development in August 2024 at the same school.
+I'm a full stack developer with a completed 2-year education in Frontend Development (2022–2024) and a freshly finished 1-year Backend Development program (2024–2025) at Noroff School of Technology and Digital Media — all completed with top grades.
 
-After 12 years at Elkjøp, I decided it was time for a career change. Technology and science have always been my passion, and now I'm on my way to becoming a full-stack developer.
+After 12 years at Elkjøp, including 11 as a seller and department manager for computers, I decided to pursue my lifelong passion for technology and problem-solving. Since 2018, I’ve also worked as an interviewer for Ipsos.
 
-I have a music album from back in the days available on [Spotify](https://open.spotify.com/artist/56ZSG2Q1JKydX5X9rTZxrq?si=787xAZCQT2yu8PKN5Dhopw).  
-I've been in sales for most of my life, including 11 years as a seller and department manager for computers at Elkjøp Ålesund. Since 2018, I've conducted interviews for Ipsos.
+With three years of modern web development training and hands-on project work behind me, I'm now building full-stack applications using React, Tailwind, Node.js, Express, Sequelize, MySQL, Redis, JWT, and Swagger — with a strong focus on clean code, accessibility (WCAG), and real-world usability.
 
-With my frontend education completed, I am now diving deep into backend development to fully understand how to deliver top-tier web solutions to customers.
+I recently completed my exam project **PulseMarket**, a fully functional e-commerce solution with user roles, cart and order handling, membership levels, admin dashboard, search/filtering, soft deletes, Redis caching, RESTful API with Swagger docs, and full Jest/Supertest test coverage.
 
-No project is too small. Available for hire.  
-Do not hesitate to contact me.
+No project is too small. I'm available for hire — don't hesitate to reach out.
 
-* 🌍 I'm based in Kristiansand, Norway  
+* 🌍 Based in Kristiansand, Norway  
 * 🖥️ Portfolio: [rundev-portfolio.netlify.app](https://rundev-portfolio.netlify.app/)  
 * ✉️ Email: [runeunhjem@gmail.com](mailto:runeunhjem@gmail.com)  
+* 🎧 Also available on [Spotify](https://open.spotify.com/artist/56ZSG2Q1JKydX5X9rTZxrq?si=787xAZCQT2yu8PKN5Dhopw)  
+* 🚀 Projects: [PulseMarket](https://github.com/runeunhjem/PulseMarket), [Holidaze](https://rundev-holidaze.netlify.app/home), [DreamBids](https://runeunhjem-sp2.netlify.app/), [CGG Store](https://javascript-frameworks-ca-react.netlify.app/)
 
 ---
 
